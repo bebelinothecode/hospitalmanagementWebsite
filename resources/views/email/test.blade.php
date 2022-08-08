@@ -1,0 +1,1 @@
+<h1>Your appointment has been booked successfully</h1>

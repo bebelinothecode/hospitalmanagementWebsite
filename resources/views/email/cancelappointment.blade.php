@@ -1,0 +1,1 @@
+<h1>Your appointment has been cancelled</h1>
